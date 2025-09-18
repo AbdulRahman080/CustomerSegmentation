@@ -74,12 +74,3 @@ The challenge is to **segment customers** based on behavior and identify opportu
    - Use re-engagement campaigns or reduce spend on them.
 4. **Geographic Focus**
    - Expand campaigns outside the UK to grow global sales.
-
----
-
-## Value for Employers
-This project demonstrates:
-- Proficiency in **SQL queries, window functions, and views**
-- Ability to connect **SQL results to business insights**
-- Skills in **data visualization and marketing analytics**
-- Clear **end-to-end workflow** from raw data → insights → recommendations
