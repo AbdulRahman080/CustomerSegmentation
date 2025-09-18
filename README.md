@@ -1,10 +1,10 @@
 # Customer Segmentation & RFM Analysis (SQL + Python)
 
 ## Project Overview
-This project analyzes **customer transaction data** from an online retail dataset to perform **RFM (Recency, Frequency, Monetary) segmentation**.  
-The goal is to identify high-value, medium-value, and low-value customers for better **marketing strategy and resource allocation**.
+This project analyzes customer transaction data from an online retail dataset to perform RFM (Recency, Frequency, Monetary) segmentation.  
+The goal is to identify high-value, medium-value, and low-value customers for better marketing strategy and resource allocation.
 
-The analysis is done **primarily in SQL** (SQLite) with **Python** used for visualization and storytelling.
+The analysis is done primarily in SQL (SQLite) with Python used for visualization and storytelling.
 
 ---
 
@@ -14,7 +14,7 @@ However, not all customers are equally valuable:
 - Some purchase frequently and spend a lot (high-value).
 - Others only buy once or haven’t returned in a long time (low-value).  
 
-The challenge is to **segment customers** based on behavior and identify opportunities for:
+The challenge is to segment customers based on behavior and identify opportunities for:
 - Loyalty programs
 - Targeted promotions
 - Win-back campaigns for at-risk customers
@@ -59,9 +59,9 @@ The challenge is to **segment customers** based on behavior and identify opportu
 ---
 
 ## Key Insights
-- A small group of **high RFM customers** generates a large share of revenue.
-- Most customers purchase only once or twice, suggesting **low loyalty**.
-- The **UK dominates revenue**, but there are strong opportunities in other top-5 countries.
+- A small group of high RFM customers generates a large share of revenue.
+- Most customers purchase only once or twice, suggesting low loyalty.
+- The UK dominates revenue, but there are strong opportunities in other top-5 countries.
 
 ---
 
